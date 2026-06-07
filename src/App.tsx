@@ -111,7 +111,7 @@ dark:from-blue-400 dark:to-purple-400 bg-clip-text text-transparent">
             </a>
              {/* Download Resume Button */}
   <a
-    href="/resume.pdf"
+    href="/KamaleshMN.pdf"
     download
      className="px-6 py-3 bg-gradient-to-r from-blue-500 to-purple-500 text-white 
              rounded-lg hover:from-blue-600 hover:to-purple-600 
@@ -124,14 +124,14 @@ dark:from-blue-400 dark:to-purple-400 bg-clip-text text-transparent">
           </div>
           
           <div className="mt-12 flex justify-center gap-6">
-            <a href="https://github.com/ajaysaran247"
+            <a href="https://github.com/kamaleshMN"
             target="_blank"
             rel="noopener noreferrer" 
             className="text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors transform hover:scale-110">
                
               <Github className="w-6 h-6" />
             </a>
-            <a href="https://www.linkedin.com/in/saran-pannerselvam"
+            <a href="https://www.linkedin.com/in/kamaleshmn"
             target="_blank" 
             rel="noopener noreferrer"
             className="text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors transform hover:scale-110">
@@ -281,7 +281,7 @@ dark:from-blue-400 dark:to-purple-400 bg-clip-text text-transparent">
   <div className="flex flex-wrap gap-4 mt-8 justify-center">
   {/* Gmail Button */}
   <a
-    href="https://mail.google.com/mail/?view=cm&fs=1&to=saranajay54658@gmail.com"
+    href="https://mail.google.com/mail/?view=cm&fs=1&to=kamaleshmn01@gmail.com"
     target="_blank"
     rel="noopener noreferrer"
     className="px-6 py-3 rounded-xl text-white font-medium shadow-md 
@@ -295,7 +295,7 @@ dark:from-blue-400 dark:to-purple-400 bg-clip-text text-transparent">
 
   {/* GitHub Button */}
   <a
-    href="https://github.com/ajaysaran247"
+    href="https://github.com/kamaleshMN"
     target="_blank"
     rel="noopener noreferrer"
     className="px-6 py-3 rounded-xl text-white font-medium shadow-md 
@@ -309,7 +309,7 @@ dark:from-blue-400 dark:to-purple-400 bg-clip-text text-transparent">
 
   {/* LinkedIn Button */}
   <a
-    href="https://www.linkedin.com/in/saran-pannerselvam"
+    href="https://www.linkedin.com/in/kamaleshmn"
     target="_blank"
     rel="noopener noreferrer"
     className="px-6 py-3 rounded-xl text-white font-medium shadow-md 
