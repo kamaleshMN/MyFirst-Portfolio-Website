@@ -110,17 +110,14 @@ dark:from-blue-400 dark:to-purple-400 bg-clip-text text-transparent">
               View Projects
             </a>
              {/* Download Resume Button */}
-  <a
-    href="/kamaleshMN.pdf"
-    download="kamaleshMN.pdf"
-     className="px-6 py-3 bg-gradient-to-r from-blue-500 to-purple-500 text-white 
-             rounded-lg hover:from-blue-600 hover:to-purple-600 
-             transition-all duration-300 flex items-center gap-2 
-             transform hover:scale-105 shadow-lg"
-  >
-    <FileCode className="w-5 h-5" />
-    Download Resume
-  </a>
+<a
+  href="./kamaleshMN.pdf"
+  download="kamaleshMN.pdf"
+  className="px-6 py-3 bg-gradient-to-r from-blue-500 to-purple-500 text-white rounded-lg hover:from-blue-600 hover:to-purple-600 transition-all duration-300 flex items-center gap-2 transform hover:scale-105 shadow-lg"
+>
+  <FileCode className="w-5 h-5" />
+  Download Resume
+</a>
           </div>
           
           <div className="mt-12 flex justify-center gap-6">
