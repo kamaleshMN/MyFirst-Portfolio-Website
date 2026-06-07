@@ -111,7 +111,7 @@ dark:from-blue-400 dark:to-purple-400 bg-clip-text text-transparent">
             </a>
              {/* Download Resume Button */}
   <a
-    href="/KamaleshMN.pdf"
+    href="/kamaleshMN.pdf"
     download
      className="px-6 py-3 bg-gradient-to-r from-blue-500 to-purple-500 text-white 
              rounded-lg hover:from-blue-600 hover:to-purple-600 
